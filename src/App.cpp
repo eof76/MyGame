@@ -2,7 +2,6 @@
 #include "App.hpp"
 
 App::App() {
-    std::cout << "App::App\n";
     init();
 }
 
@@ -11,5 +10,5 @@ App::~App() {
 }
 
 void App::init() {
-    
+        
 }

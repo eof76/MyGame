@@ -1,1 +1,1 @@
-g++ -Wall -g -std=c++17 src/main.cpp src/App.cpp src/GraphicsSystem.cpp -o bin/debug/MyGame
+g++ -Wall -g -std=c++17 src/main.cpp src/App.cpp src/GraphicsSystem.cpp -o bin/debug/MyGame -I C:\Develop\C++\Libs\VulkanSDK\1.3.204.1\Include c:\Windows\System32\vulkan-1.dll
